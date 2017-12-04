@@ -85,6 +85,7 @@
 		0B087F9F1FD5314C00FF174A /* Main */ = {
 			isa = PBXGroup;
 			children = (
+				0BA9378B1FD14E9F00934389 /* Main.storyboard */,
 			);
 			path = Main;
 			sourceTree = "<group>";
@@ -112,7 +113,6 @@
 				0B087F991FD5314C00FF174A /* Classes */,
 				0BA937991FD171DD00934389 /* DYZB.entitlements */,
 				0BA937871FD14E9F00934389 /* AppDelegate.swift */,
-				0BA9378B1FD14E9F00934389 /* Main.storyboard */,
 				0BA9378E1FD14E9F00934389 /* Assets.xcassets */,
 				0BA937901FD14E9F00934389 /* LaunchScreen.storyboard */,
 				0BA937931FD14E9F00934389 /* Info.plist */,
